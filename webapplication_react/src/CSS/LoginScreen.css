@@ -1,0 +1,15 @@
+.LoginScreen {
+    display:grid;
+    grid-template-rows: 1.4fr 2fr;
+    height:100vh;
+}
+#Top{
+    background:#A38686;
+    width:auto;
+    height:100%;
+}
+#Bottom{
+    background:#F1CF81;
+    width:auto;
+    height:100%;
+}

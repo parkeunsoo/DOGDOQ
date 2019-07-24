@@ -1,0 +1,17 @@
+#textbutton{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background-color:rgba(0,0,0,0);
+    width:100%;
+    height:auto;
+    border:none;
+    cursor: pointer;
+}
+#textbuttontext{
+    color:#262626;
+    font-size: 9px;
+}
+button:focus {
+    outline: none;
+  }

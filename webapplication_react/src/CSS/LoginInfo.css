@@ -1,0 +1,14 @@
+.InfoBlock{
+    display:flex;
+    flex-direction:column;
+    width:80%;
+    height:auto;
+    justify-content: center;
+    align-items:center;
+    border-radius:5px;
+}
+#line{
+    background-color:#0f0f0f;
+    width:99%;
+    margin:0;
+}

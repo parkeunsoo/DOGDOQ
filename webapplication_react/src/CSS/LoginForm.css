@@ -1,0 +1,86 @@
+.LoginForm{
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items:center;
+    background-color:#ffffff;
+    position:absolute;
+    width:450px;
+    height:800px;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    box-shadow: 3px 3px 3px 3px gray;
+    border-radius:10px;
+}
+#header{
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+    margin-top:-80px;
+}
+#headertext{    
+    color:#7C7C7C;
+    font-size: 9px;
+    margin-top:-50px;
+    margin-bottom:30px;
+}
+.textbutton{
+    display:flex;
+    width:80%;
+    height:auto;
+    justify-content: space-between;
+    align-items: center;
+}
+#checkboxtext{
+    margin-right:20px;
+}
+#findinfo{
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+    justify-content:center;
+}
+#vertical{
+    height:15px;
+    width:auto;
+}
+#tail{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    width: 80%;
+    margin-top:30px;
+    margin-bottom:30px;
+}
+#horizental{
+    width:100%;
+}
+#suggesttext{
+    margin-top:20px;
+    font-size:18px;
+    font-weight:500;
+}
+#login{
+    display:flex;
+    flex-direction:column;
+    width:100%;
+    height:auto;
+    justify-content: center;
+    align-items: center;
+    margin-top:20px;
+}
+#signup{
+    display:flex;
+    flex-direction:column;
+    width:100%;
+    height:auto;
+    justify-content: center;
+    align-items: center;
+}

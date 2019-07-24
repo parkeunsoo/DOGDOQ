@@ -1,0 +1,9 @@
+.CheckboxText{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+#checkboxtext{
+    color:#262626;
+    font-size: 9px;
+}
